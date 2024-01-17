@@ -1,1 +1,0 @@
-# unipd-quality-engineering-notes
