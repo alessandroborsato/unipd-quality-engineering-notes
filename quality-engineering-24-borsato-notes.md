@@ -1,6 +1,6 @@
 # Quality engineering - Prof. Bertocco 23-24
 
-Alessandro Borsato Notes of the lectures (some of them are missing)
+Alessandro Borsato notes (few lectures are missing)
 These notes are meant to be personal, after many requests I decided to make them public, also under the permission of Professor Bertocco.
 This is not an offial source of information about the course, these ones are lectures, moodle material and recommended books!
 
