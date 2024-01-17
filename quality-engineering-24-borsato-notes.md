@@ -1,16 +1,18 @@
 # Quality engineering - Prof. Bertocco 23-24
 
 Alessandro Borsato notes (few lectures are missing)
-These notes are meant to be personal, after many requests I decided to make them public, also under the permission of Professor Bertocco.
-This is not an offial source of information about the course, these ones are lectures, moodle material and recommended books!
 
-I cleaned up a little bit the notes, but I know there are some unclear phrases, if you notice something not meant to be there contact me please!
+These notes were meant to be non-exhaustive and personal, after many requests I decided to make them public, after asking the professor's permission.
 
-**Also if this repository is useful to you, please leave a star!**
+I cleaned up a little bit the notes after the exam, but I know there could be still some unclear phrases.
+
+*IMPORTANT: This is not an offial source of information about the course, official ones are lectures, moodle material and recommended books/readings! The professor gave me the permission to publish them but never reviewed them, so some information inside could be not so accurate (tried my best when taking them btw!).*
+
+**Hope these notes will help you, if so please leave a star!**
 
 Contacts:
+
 alessandro.borsato.1@studenti.unipd.it
-alessandroborsato.it
 
 *Since I am an Italian student, some phrases could contain some Italian and English language mixed up (hope this won't be too annoying to readers).
 Again, these notes were meant to be personal, I decided to share them after many people asked me to let them public.
