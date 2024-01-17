@@ -15,7 +15,6 @@ Contacts:
 alessandro.borsato.1@studenti.unipd.it
 
 *Since I am an Italian student, some phrases could contain some Italian and English language mixed up (hope this won't be too annoying to readers).
-Again, these notes were meant to be personal, I decided to share them after many people asked me to let them public.
 I hope these will help you preparing the exam, break a leg!*
 
 # Lecture. 1
