@@ -2,17 +2,16 @@
 
 Alessandro Borsato notes (few lectures are missing)
 
-These notes were meant to be non-exhaustive and personal. After many requests I decided to make them public, also after asking the professor's permission.
 
 *IMPORTANT: This is not an offial source of information about the course, official ones are lectures, moodle material and recommended books/readings! The professor gave me the permission to publish them but never reviewed them, so, some information inside could be not so accurate (tried my best when taking them btw!).*
 
-I cleaned up a little bit the most messy notes, but there could be still some unclear phrases.
+These notes were meant to be non-exhaustive and personal. Some lectures are missing and only described by few sentences/words. I cleaned up a little bit the most messy ones, but there could be still some unclear phrases or english mistakes.
 
 *Since I am an Italian student, some phrases could contain some Italian and English language mixed up (hope this won't be too annoying to readers).
 I hope these will help you preparing the exam, break a leg!*
 
 
-**If these notes helped you someway, please leave this repo a star!**
+**If these notes helped you someway, you can leave a star!**
 
 In case you notice something wrong inside these notes (informations not meant to be public, ..) please contact me at alessandro.borsato.1ATstudenti.unipd.it !
 
