@@ -2,20 +2,19 @@
 
 Alessandro Borsato notes (few lectures are missing)
 
-These notes were meant to be non-exhaustive and personal, after many requests I decided to make them public, after asking the professor's permission.
+These notes were meant to be non-exhaustive and personal. After many requests I decided to make them public, also after asking the professor's permission.
 
-I cleaned up a little bit the notes after the exam, but I know there could be still some unclear phrases.
+*IMPORTANT: This is not an offial source of information about the course, official ones are lectures, moodle material and recommended books/readings! The professor gave me the permission to publish them but never reviewed them, so, some information inside could be not so accurate (tried my best when taking them btw!).*
 
-*IMPORTANT: This is not an offial source of information about the course, official ones are lectures, moodle material and recommended books/readings! The professor gave me the permission to publish them but never reviewed them, so some information inside could be not so accurate (tried my best when taking them btw!).*
-
-**Hope these notes will help you, if so please leave a star!**
-
-Contacts:
-
-alessandro.borsato.1@studenti.unipd.it
+I cleaned up a little bit the most messy notes, but there could be still some unclear phrases.
 
 *Since I am an Italian student, some phrases could contain some Italian and English language mixed up (hope this won't be too annoying to readers).
 I hope these will help you preparing the exam, break a leg!*
+
+
+**If these notes helped you someway, please leave this repo a star!**
+
+In case you notice something wrong inside these notes (informations not meant to be public, ..) please contact me at alessandro.borsato.1ATstudenti.unipd.it !
 
 # Lecture. 1
 ## topics and rules
