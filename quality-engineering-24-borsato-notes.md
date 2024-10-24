@@ -2,25 +2,26 @@
 
 Alessandro Borsato notes (few lectures are missing)
 
+*IMPORTANT: This is not an official source of information about the course, recommended ones are lectures, moodle material and recommended books/readings! The professor gave me the permission to publish my following (unreviewed) notes, so, some information inside could be not so accurate (tried my best when taking them btw!).*
 
-*IMPORTANT: This is not an official source of information about the course, recommended ones are lectures, moodle material and recommended books/readings! The professor gave me the permission to publish my unreviewed notes, so, some information inside could be not so accurate (tried my best when taking them btw!).*
-
-These notes were meant to be non-exhaustive and personal. Some lectures are missing and only described by few sentences/words. I cleaned up a little bit the most messy ones, but there could be still some unclear phrases or english mistakes.
-
-*Since I am an Italian student, some unreviewed phrases could contain some Italian and English language mixed up (hope this won't be too annoying to readers).
-I hope these will help you preparing the exam, break a leg!*
+These notes were meant to be non-exhaustive and personal. I cleaned up the most messy ones, there could be still some unclear phrases or english mistakes (hope these won't be too annoying to readers).
 
 
 **If these notes helped you someway, you can leave a star!**
 
+**Are you super grateful for these notes?**
+You can offer me a coffe (or a spritz!) via this link: https://www.paypal.me/aleborsato
+
 In case you notice something wrong inside these notes (informations not meant to be public, ..) please contact me at alessandro.borsato.1 AT studenti.unipd.it !
+
+*I hope these notes will help you preparing the exam, break a leg!*
 
 # Lecture. 1
 ## topics and rules
 ### goals
 1. QMS Quality Management System: understand it
 2. Quality tools and techiques, get and mantain iso 9001
-3. understand total quality
+3. Understand the concept of total quality
 
 ## company profiles
 
