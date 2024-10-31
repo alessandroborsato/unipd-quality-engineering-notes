@@ -10,7 +10,8 @@ These notes were meant to be non-exhaustive and personal. I cleaned up the most 
 **If these notes helped you someway, you can leave a star!**
 
 **Are you super grateful?**
-You can offer me a coffe (or a spritz!) via this link: https://www.paypal.me/aleborsato
+
+You can offer me a coffee (or a spritz!) via this link: https://www.paypal.me/aleborsato
 
 In case you notice something wrong inside these notes (informations not meant to be public, ..) please contact me at alessandro.borsato.1 AT studenti.unipd.it !
 
